@@ -1,2 +1,2 @@
 # Python-programs
-All advanced python programs I accept.
+Add any python code for an advanced program.
